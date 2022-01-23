@@ -5,6 +5,20 @@ This program is PG-18
 Makes cats follow the cursor in a trail.
 Nobody should use this.
 
+# Usage
+
+clone and then:
+```
+make run
+```
+to stop
+
+```
+make schtop
+```
+
+
+
 # License
 
 MIT, have fun!
